@@ -1,2 +1,0 @@
-access_key = "AKIAJ4MMFYQAYHQDYFIA"
-secret_key = "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"
